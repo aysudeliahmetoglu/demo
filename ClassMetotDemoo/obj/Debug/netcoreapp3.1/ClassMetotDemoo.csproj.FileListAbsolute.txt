@@ -1,0 +1,13 @@
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\obj\Debug\netcoreapp3.1\ClassMetotDemoo.csprojAssemblyReference.cache
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\obj\Debug\netcoreapp3.1\ClassMetotDemoo.AssemblyInfoInputs.cache
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\obj\Debug\netcoreapp3.1\ClassMetotDemoo.AssemblyInfo.cs
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\obj\Debug\netcoreapp3.1\ClassMetotDemoo.csproj.CoreCompileInputs.cache
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\bin\Debug\netcoreapp3.1\ClassMetotDemoo.exe
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\bin\Debug\netcoreapp3.1\ClassMetotDemoo.deps.json
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\bin\Debug\netcoreapp3.1\ClassMetotDemoo.runtimeconfig.json
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\bin\Debug\netcoreapp3.1\ClassMetotDemoo.runtimeconfig.dev.json
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\bin\Debug\netcoreapp3.1\ClassMetotDemoo.dll
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\bin\Debug\netcoreapp3.1\ClassMetotDemoo.pdb
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\obj\Debug\netcoreapp3.1\ClassMetotDemoo.dll
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\obj\Debug\netcoreapp3.1\ClassMetotDemoo.pdb
+C:\Users\AYSU\source\repos\ClassMetotDemo\ClassMetotDemoo\obj\Debug\netcoreapp3.1\ClassMetotDemoo.genruntimeconfig.cache
